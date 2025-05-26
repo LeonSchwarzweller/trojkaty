@@ -1,10 +1,6 @@
 // struktura punkt
 
-struct point
-{
-    double x;
-    double y;
-};
+struct point;
 
 // długość odcinka
 double distance(point A, point B);
